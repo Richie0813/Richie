@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Dec 2021 11:42:16 at https://kerrilive.netlify.app/dark/index_3.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kerrilive.netlify.app/dark/index_3.html -O1 "C:\Users\user\OneDrive\Desktop\Richly" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:43:08	Error: 	"Not Found" (404) at link https://kerrilive.netlify.app/dark/fonts/materialdesignicons-webfont.svg?v=2.0.46 (from https://kerrilive.netlify.app/dark/css/materialdesignicons.min.css)
+11:43:08	Error: 	"Not Found" (404) at link https://kerrilive.netlify.app/dark/css/owl.video.play.png (from https://kerrilive.netlify.app/dark/css/owl.carousel.min.css)
+11:43:08	Error: 	"Not Found" (404) at link https://kerrilive.netlify.app/dark/fonts/MobiriseIcons.eot?5dqoim (from https://kerrilive.netlify.app/dark/css/mobiriseicons.css)
+11:43:08	Error: 	"Not Found" (404) at link https://kerrilive.netlify.app/dark/fonts/MobiriseIcons.svg?5dqoim (from https://kerrilive.netlify.app/dark/css/mobiriseicons.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 seconds : 48 links scanned, 43 files written (2417366 bytes overall) [1578516 bytes received at 30356 bytes/sec], 1491373 bytes transferred using HTTP compression in 27 files, ratio 41%
+(4 errors, 0 warnings, 0 messages)
